@@ -17,6 +17,7 @@ nav_order: 4
   {% endfor %}
 </div>
 
+{% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories
 
@@ -25,3 +26,4 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
+{% endif %}
