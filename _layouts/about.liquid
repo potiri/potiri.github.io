@@ -21,7 +21,7 @@ layout: default
   </div>
 
   {% if page.profile %}
-    <div class="profile ms-3">
+    <div class="profile ms-3" style="flex-basis: 30%; max-width: 30%;">
       {% if page.profile.image %}
         {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
         {% if page.profile.image_circular %}
