@@ -8,11 +8,6 @@ profile:
   align: right
   image: lena.JPG
   image_circular: true # crops the image to make it circular
-  more_info: 
-    <p>University of Regensburg</p>
-      <p>Room RWS 105</p>
-    <p>93047 Regensburg, Germany</p>
-
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
