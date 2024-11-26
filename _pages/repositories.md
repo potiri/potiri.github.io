@@ -17,6 +17,8 @@ nav_order: 4
   {% endfor %}
 </div>
 
+{% endif %} <!-- Close github_users if statement -->
+
 {% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories
@@ -26,4 +28,5 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+
+{% endif %} <!-- Close github_repos if statement -->
