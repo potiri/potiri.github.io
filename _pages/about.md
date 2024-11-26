@@ -8,8 +8,7 @@ profile:
   align: right
   image: lena.JPG
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>RWS 105</p>
+  more_info: 
     <p>University of Regensburg</p>
       <p>Room RWS 105</p>
     <p>93047 Regensburg, Germany</p>
