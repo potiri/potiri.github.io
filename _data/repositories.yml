@@ -4,10 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - DigitalTwinSocCyberRange/DigitalTwinCyberrange 
+  - TARGETframework/Frontend_IcebergCRX 
+  - potiri/Frontend_IcebergCRX_Teammode
+  - potiri/mastermind
+  - InstruCRX/InstruCRX_frontend
+  - BlocklyCyberRange/frontendCyberrange
+
