@@ -22,6 +22,8 @@ nav_order: 6
 WT: Winter term, ST: Summer term
 
 
+
+
 **Supervised theses (selection)**
  - Understanding Individuals’ Security and Privacy Perceptions towards Using Large Language Models in aWork Context (master thesis)
  - Elevating TARA: A Maturity Model for Advanced Cybersecurity Risk Assessment under ISO/SAE 21434 (master thesis)
