@@ -23,4 +23,4 @@ You can find news about our group and my research on our [lab website](https://w
 
 Whenever I'm not at university or in front of a computer, you will most likely find me climbing, cycling or looking for the best aperitivo places in Regensburg.
 
-If you want to reach out, feel free to contact mevia email **magdalena.glas\[at\]ur.de**, [LinkedIn](https://www.linkedin.com/in/magdalena-glas-882497232/) or come by my office \(RWS105\).
+If you want to reach out, feel free to contact mevia email **magdalena.glas\[at\]ur.de**, [LinkedIn](https://www.linkedin.com/in/magdalena-glas-882497232/) or come by my office [\(RWS105\)](https://urwalking.ur.de/navi/navi/nn/Campusplan/1/1114/rw/2/272?v=ur).
