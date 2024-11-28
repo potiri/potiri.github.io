@@ -7,8 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### Courses
-
+**Courses**
 - **Ethical Hacking and Cyber Range Training** - Lecturer and Course Concept (WT 22/23, WT 23/24, WT 24/25)
    Master course 
 - **Introduction to Scientific Writing** - Lecturer and Course Concept (ST 24, WT 24/25)
@@ -23,7 +22,7 @@ nav_order: 6
 WT: Winter term, ST: Summer term
 
 
-### Supervised theses (selection)
+**Supervised theses (selection)**
  - Understanding Individuals’ Security and Privacy Perceptions towards Using Large Language Models in aWork Context (master thesis)
  - Elevating TARA: A Maturity Model for Advanced Cybersecurity Risk Assessment under ISO/SAE 21434 (master thesis)
  - Attack Automation in Cybersecurity Exercises (Bachelor thesis)
