@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cybersecurity Researcher | PhD Candidate @ University of Regensburg
+subtitle: Cybersecurity Researcher | PostDoc @ University of Regensburg
 
 profile:
   align: right
@@ -13,9 +13,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Lena, a PhD student at the [chair of information systems (Prof. Dr. Günther Pernul)](https://www.uni-regensburg.de/informatik-data-science/wi-pernul/startseite/index.html) at the University of Regensburg. My research evolves about human-centric aspects of security and privacy. 
+Hi! I'm Lena, a PostDoc  at the [chair of information systems (Prof. Dr. Günther Pernul)](https://www.uni-regensburg.de/informatik-data-science/wi-pernul/startseite/index.html) at the University of Regensburg. My research evolves about human-centric aspects of security and privacy. 
 
-My PhD topic, in particular, is about exploring the potential of cyber ranges, replications of real systems, as a way to train individuals to detect and mitigate cyber attacks. 
+I obtained my PhD degree in June 2025 with the topic "Authentic Learning in Organizational Cybersecurity"  exploring the potential of cyber ranges, replications of real systems, as a way to train individuals to detect and mitigate cyber attacks. 
 
 During my PhD I was involved in the INSIST project, funded by the Bavarian StMWi, about securing the Industrial Internet of Things by buidling an Industrial Security Operations Center.
 
